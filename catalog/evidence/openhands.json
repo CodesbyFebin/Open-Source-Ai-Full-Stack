@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/OpenHands/OpenHands",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "openhands",
-  "last_commit": "2026-10-20T19:37:27Z",
+  "last_commit": "2026-10-26T05:52:26Z",
   "latest_release": {
-    "published_at": "2026-10-19T17:09:42Z",
-    "tag": "v1.28.1"
+    "published_at": "2026-10-23T13:46:20Z",
+    "tag": "v1.33.0"
   },
   "license": {
     "github_spdx": "MIT",
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T19:49:18Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T08:38:35Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/OpenHands/OpenHands",
-  "stars": 91402,
+  "stars": 91871,
   "state": "active"
 }

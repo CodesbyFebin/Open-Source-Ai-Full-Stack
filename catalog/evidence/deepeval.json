@@ -2,11 +2,11 @@
   "canonical_repo": "https://github.com/confident-ai/deepeval",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "deepeval",
-  "last_commit": "2026-10-19T06:25:00Z",
+  "last_commit": "2026-10-23T11:40:53Z",
   "latest_release": {
     "published_at": "2026-09-22T16:36:00Z",
     "tag": "python-v4.2.4"
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-19T06:25:04Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-23T11:41:01Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/confident-ai/deepeval",
-  "stars": 18991,
+  "stars": 19108,
   "state": "active"
 }

@@ -42,12 +42,12 @@ Universal memory layer for AI agents
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-14 |
+| Last commit | 2026-10-21 |
 | Latest release | ts-v3.3.1 (2026-09-25) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### OpenMemory {#openmemory}
 
@@ -102,9 +102,9 @@ Temporal knowledge-graph memory
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-10-25 |
 | Latest release | v0.31.2 (2026-10-20) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |

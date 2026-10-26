@@ -41,12 +41,12 @@ Open-source backend-as-a-service: Postgres, auth, storage, functions, AI gateway
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-10-26 |
 | Latest release | none detected  |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Supabase {#supabase}
 
@@ -61,12 +61,12 @@ Postgres platform with auth, storage, pgvector
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-10-26 |
 | Latest release | v1.26.08 (2026-08-07) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### PocketBase {#pocketbase}
 
@@ -81,9 +81,9 @@ Single-file backend with realtime DB
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-08 |
-| Latest release | v0.40.5 (2026-10-08) |
+| Last commit | 2026-10-23 |
+| Latest release | v0.40.6 (2026-10-23) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |

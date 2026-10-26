@@ -64,12 +64,12 @@ One-command local model runner with OpenAI-compatible API
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v0.40.6 (2026-10-16) |
+| Last commit | 2026-10-26 |
+| Latest release | v0.40.11 (2026-10-24) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### llama.cpp {#llamacpp}
 
@@ -84,12 +84,12 @@ Portable C/C++ inference for GGUF models
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-10-26 |
 | Latest release | v0.7.0 (2026-10-15) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | C++ |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### llamafile {#llamafile}
 
@@ -124,12 +124,12 @@ Drop-in OpenAI API replacement for local models
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v4.11.0 (2026-10-02) |
+| Last commit | 2026-10-26 |
+| Latest release | v4.12.1 (2026-10-23) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Text Generation WebUI {#text-generation-webui}
 

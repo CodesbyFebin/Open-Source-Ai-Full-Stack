@@ -35,9 +35,9 @@ Browse the upstream examples repository, clone only the example you need, instal
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-18 |
+| Last commit | 2026-10-21 |
 | Latest release | none detected  |
 | Deployment | examples |
 | Hardware | unknown |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |

@@ -45,12 +45,12 @@ Composable LLM application framework
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | langchain-core==1.6.12 (2026-10-16) |
+| Last commit | 2026-10-25 |
+| Latest release | langchain-core==1.7.0 (2026-10-22) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### LangGraph {#langgraph}
 
@@ -65,12 +65,12 @@ Graph-based stateful agent orchestration
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | cli==0.4.37 (2026-10-19) |
+| Last commit | 2026-10-25 |
+| Latest release | 1.2.17 (2026-10-24) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### CrewAI {#crewai}
 
@@ -85,12 +85,12 @@ Role-based multi-agent crews
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | 1.15.28 (2026-10-14) |
+| Last commit | 2026-10-26 |
+| Latest release | 1.15.30 (2026-10-24) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### AutoGen {#autogen}
 
@@ -130,7 +130,7 @@ Minimal code-writing agents
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Agno {#agno}
 
@@ -145,12 +145,12 @@ Fast agent framework with memory and tools
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v3.1.7 (2026-10-20) |
+| Last commit | 2026-10-26 |
+| Latest release | v3.1.10 (2026-10-23) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### OpenHuman {#openhuman}
 
@@ -165,9 +165,9 @@ Lightweight agent harness that runs hundreds of agents on a small VPS
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-10-26 |
 | Latest release | v0.64.15 (2026-10-09) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Rust |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
