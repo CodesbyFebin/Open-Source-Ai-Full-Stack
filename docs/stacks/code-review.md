@@ -37,11 +37,11 @@ Hybrid deterministic + LLM agent code reviewer with line-level comments
 | Licence review reason | – |
 | Last lookup | ok |
 | Last commit | 2026-10-20 |
-| Latest release | v1.13.2 (2026-10-20) |
+| Latest release | v1.13.3 (2026-10-22) |
 | Deployment | ci |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### PR-Agent {#pr-agent}
 
@@ -56,9 +56,9 @@ PR review, describe and improve commands
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v0.48.0 (2026-10-16) |
+| Last commit | 2026-10-26 |
+| Latest release | v0.49.0 (2026-10-25) |
 | Deployment | ci |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |

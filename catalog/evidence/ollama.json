@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/ollama/ollama",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "ollama",
-  "last_commit": "2026-10-20T19:19:18Z",
+  "last_commit": "2026-10-26T04:25:58Z",
   "latest_release": {
-    "published_at": "2026-10-16T22:00:46Z",
-    "tag": "v0.40.6"
+    "published_at": "2026-10-24T00:30:13Z",
+    "tag": "v0.40.11"
   },
   "license": {
     "github_spdx": "MIT",
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T19:19:18Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T04:25:58Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/ollama/ollama",
-  "stars": 184065,
+  "stars": 184814,
   "state": "active"
 }

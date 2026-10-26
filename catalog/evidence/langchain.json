@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/langchain-ai/langchain",
   "default_branch": "master",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "langchain",
-  "last_commit": "2026-10-20T15:51:22Z",
+  "last_commit": "2026-10-25T20:37:41Z",
   "latest_release": {
-    "published_at": "2026-10-16T19:28:44Z",
-    "tag": "langchain-core==1.6.12"
+    "published_at": "2026-10-22T17:47:38Z",
+    "tag": "langchain-core==1.7.0"
   },
   "license": {
     "github_spdx": "MIT",
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T18:35:35Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T08:40:54Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/langchain-ai/langchain",
-  "stars": 148143,
+  "stars": 148479,
   "state": "active"
 }

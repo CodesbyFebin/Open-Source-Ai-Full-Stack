@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/qdrant/qdrant",
   "default_branch": "master",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "qdrant",
-  "last_commit": "2026-10-05T10:03:16Z",
+  "last_commit": "2026-10-21T17:45:09Z",
   "latest_release": {
-    "published_at": "2026-10-05T14:16:50Z",
-    "tag": "v1.19.2"
+    "published_at": "2026-10-22T14:14:12Z",
+    "tag": "v1.20.0"
   },
   "license": {
     "github_spdx": "Apache-2.0",
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T16:36:27Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T04:20:20Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/qdrant/qdrant",
-  "stars": 35159,
+  "stars": 35253,
   "state": "active"
 }

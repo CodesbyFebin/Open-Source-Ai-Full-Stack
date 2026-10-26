@@ -50,7 +50,7 @@ Data framework for RAG
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Haystack {#haystack}
 
@@ -65,12 +65,12 @@ Production RAG pipelines
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v3.4.0 (2026-10-15) |
+| Last commit | 2026-10-24 |
+| Latest release | v3.4.1 (2026-10-21) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### RAGFlow {#ragflow}
 
@@ -85,12 +85,12 @@ Deep-document-understanding RAG engine
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-10-26 |
 | Latest release | v1.0.0-rc2 (2026-10-16) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Qdrant {#qdrant}
 
@@ -105,12 +105,12 @@ Vector search engine
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-05 |
-| Latest release | v1.19.2 (2026-10-05) |
+| Last commit | 2026-10-21 |
+| Latest release | v1.20.0 (2026-10-22) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Rust |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Chroma {#chroma}
 
@@ -125,12 +125,12 @@ Embedding database
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-17 |
+| Last commit | 2026-10-22 |
 | Latest release | 1.5.9 (2026-05-05) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Rust, Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Milvus {#milvus}
 
@@ -145,12 +145,12 @@ Cloud-native vector database
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v3.0.3 (2026-10-14) |
+| Last commit | 2026-10-26 |
+| Latest release | v3.0.4 (2026-10-26) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Weaviate {#weaviate}
 
@@ -166,8 +166,8 @@ Vector DB with hybrid search
 | Licence review reason | Multiple licences: source is variously BSD-3-Clause or the Weaviate License (upstream LICENSE). |
 | Last lookup | ok |
 | Last commit | 2026-10-16 |
-| Latest release | v1.40.1 (2026-10-13) |
+| Latest release | v1.40.2 (2026-10-22) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |

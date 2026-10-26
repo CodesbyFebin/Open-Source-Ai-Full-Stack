@@ -45,12 +45,12 @@ Aggregates free LLM providers behind one /v1 endpoint with failover
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v0.16.6 (2026-10-20) |
+| Last commit | 2026-10-25 |
+| Latest release | v0.16.10 (2026-10-25) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### OpenCode Free Router {#opencode-free-9router}
 
@@ -64,7 +64,7 @@ Routes coding-agent traffic to free model endpoints
 | Licence detected by GitHub | MIT |
 | Repository state | active |
 | Licence review reason | – |
-| Last lookup | ok |
+| Last lookup | 404 |
 | Last commit | 2026-10-17 |
 | Latest release | none detected  |
 | Deployment | self-hosted |
@@ -85,12 +85,12 @@ High-performance AI gateway with load balancing and fallbacks
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-19 |
-| Latest release | ent-v2.3.1-base (2026-10-19) |
+| Last commit | 2026-10-25 |
+| Latest release | ent-v2.3.2-base (2026-10-21) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Trylon Gateway {#trylon-gateway}
 
@@ -125,12 +125,12 @@ Proxy + SDK for 100+ LLM APIs in OpenAI format, cost tracking
 | Repository state | active |
 | Licence review reason | Multiple licences: MIT for most code, separate licence for the enterprise/ directory (stated at top of upstream LICENSE). |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v1.106.1 (2026-10-20) |
+| Last commit | 2026-10-25 |
+| Latest release | v1.106.4 (2026-10-25) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Portkey Gateway {#portkey-gateway}
 

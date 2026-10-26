@@ -42,12 +42,12 @@ LLM tracing, evals and prompt management
 | Repository state | active |
 | Licence review reason | Multiple licences: MIT except ee/ directories, which have separate terms (upstream LICENSE). |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v4.66.0 (2026-10-20) |
+| Last commit | 2026-10-25 |
+| Latest release | v4.70.0 (2026-10-24) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Phoenix {#phoenix}
 
@@ -62,12 +62,12 @@ AI observability and evaluation
 | Repository state | active |
 | Licence review reason | Source-available, not OSI: Elastic License 2.0 (upstream LICENSE). |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | arize-phoenix-sqlean-v0.2.1 (2026-10-19) |
+| Last commit | 2026-10-25 |
+| Latest release | arize-phoenix-v20.26.1 (2026-10-25) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### promptfoo {#promptfoo}
 
@@ -82,12 +82,12 @@ Prompt testing and red-teaming CLI
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | code-scan-action-0.2.2 (2026-10-08) |
+| Last commit | 2026-10-25 |
+| Latest release | 0.125.1 (2026-10-25) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### DeepEval {#deepeval}
 
@@ -102,9 +102,9 @@ Unit-test style LLM evaluation
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-19 |
+| Last commit | 2026-10-23 |
 | Latest release | python-v4.2.4 (2026-09-22) |
 | Deployment | library, self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |

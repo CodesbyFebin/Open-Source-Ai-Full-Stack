@@ -2,11 +2,11 @@
   "canonical_repo": "https://github.com/triton-inference-server/server",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "triton-server",
-  "last_commit": "2026-10-15T11:04:01Z",
+  "last_commit": "2026-10-26T06:48:48Z",
   "latest_release": {
     "published_at": "2026-09-30T22:26:40Z",
     "tag": "v2.73.0"
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-19T18:43:09Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T06:48:52Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/triton-inference-server/server",
-  "stars": 11099,
+  "stars": 11113,
   "state": "active"
 }

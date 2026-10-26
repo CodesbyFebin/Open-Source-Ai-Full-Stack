@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/open-webui/open-webui",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "open-webui",
-  "last_commit": "2026-10-16T11:46:08Z",
+  "last_commit": "2026-10-25T08:00:02Z",
   "latest_release": {
-    "published_at": "2026-10-16T11:46:21Z",
-    "tag": "v0.12.3"
+    "published_at": "2026-10-25T08:07:13Z",
+    "tag": "v0.12.4"
   },
   "license": {
     "github_spdx": "NOASSERTION",
@@ -17,9 +17,9 @@
     "state": "needs-review"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T19:46:36Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T08:31:30Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/open-webui/open-webui",
-  "stars": 156280,
+  "stars": 156782,
   "state": "active"
 }

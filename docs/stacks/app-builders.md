@@ -42,12 +42,12 @@ LLM app and agentic workflow platform
 | Repository state | active |
 | Licence review reason | Custom licence: modified Apache-2.0 with additional conditions (upstream LICENSE). |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | 1.17.1 (2026-09-10) |
+| Last commit | 2026-10-26 |
+| Latest release | 1.18.0 (2026-10-23) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### Flowise {#flowise}
 
@@ -82,12 +82,12 @@ Visual flow builder for agents and RAG
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-16 |
-| Latest release | v1.12.6 (2026-10-13) |
+| Last commit | 2026-10-22 |
+| Latest release | v1.13.0 (2026-10-22) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |
 
 ### n8n {#n8n}
 
@@ -102,9 +102,9 @@ Workflow automation with AI nodes
 | Repository state | active |
 | Licence review reason | Source-available, not OSI: Sustainable Use License (fair-code) with portions under an enterprise licence (upstream LICENSE.md). |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | n8n@2.44.4 (2026-10-19) |
+| Last commit | 2026-10-26 |
+| Latest release | n8n@2.44.7 (2026-10-26) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-10-26 |

@@ -2,11 +2,11 @@
   "canonical_repo": "https://github.com/chroma-core/chroma",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "chroma",
-  "last_commit": "2026-10-17T21:37:30Z",
+  "last_commit": "2026-10-22T02:32:47Z",
   "latest_release": {
     "published_at": "2026-05-05T05:55:40Z",
     "tag": "1.5.9"
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T03:43:25Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T03:26:30Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/chroma-core/chroma",
-  "stars": 29540,
+  "stars": 29583,
   "state": "active"
 }

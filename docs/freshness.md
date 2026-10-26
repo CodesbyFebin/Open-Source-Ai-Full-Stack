@@ -21,66 +21,66 @@ Evidence is collected from the public GitHub REST API by a **weekly** scheduled 
 
 | Project | State | Last commit | Latest release | Declared licence | GitHub detected | Evidence date | Flags |
 |---|---|---|---|---|---|---|---|
-| [FreeLLMAPI](stacks/gateways-routing.md#freellmapi) | active | 2026-10-20 | v0.16.6 | MIT | MIT | 2026-10-20 | – |
-| [OpenCode Free Router](stacks/gateways-routing.md#opencode-free-9router) | active | 2026-10-17 | – | MIT | MIT | 2026-10-20 | – |
-| [Bifrost](stacks/gateways-routing.md#bifrost) | active | 2026-10-19 | ent-v2.3.1-base | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
+| [FreeLLMAPI](stacks/gateways-routing.md#freellmapi) | active | 2026-10-25 | v0.16.10 | MIT | MIT | 2026-10-26 | – |
+| [OpenCode Free Router](stacks/gateways-routing.md#opencode-free-9router) | active | 2026-10-17 | – | MIT | MIT | 2026-10-20 | lookup: 404 |
+| [Bifrost](stacks/gateways-routing.md#bifrost) | active | 2026-10-25 | ent-v2.3.2-base | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
 | [Trylon Gateway](stacks/gateways-routing.md#trylon-gateway) | active | 2025-06-25 | – | BUSL-1.1 | NOASSERTION | 2026-10-20 | licence review |
-| [LiteLLM](stacks/gateways-routing.md#litellm) | active | 2026-10-20 | v1.106.1 | MIT (enterprise/ dir separate) | NOASSERTION | 2026-10-20 | licence review |
+| [LiteLLM](stacks/gateways-routing.md#litellm) | active | 2026-10-25 | v1.106.4 | MIT (enterprise/ dir separate) | NOASSERTION | 2026-10-26 | licence review |
 | [Portkey Gateway](stacks/gateways-routing.md#portkey-gateway) | active | 2026-05-25 | v1.15.2 | MIT | MIT | 2026-10-20 | – |
-| [Open WebUI](stacks/chat-ui.md#open-webui) | active | 2026-10-16 | v0.12.3 | Open WebUI License (BSD-3 + branding clause) | NOASSERTION | 2026-10-20 | licence review |
-| [Lobe Chat](stacks/chat-ui.md#lobe-chat) | active | 2026-10-20 | v2.2.20 | LobeHub Community License (Apache-2.0 based) | NOASSERTION | 2026-10-20 | licence review |
-| [LibreChat](stacks/chat-ui.md#librechat) | active | 2026-10-17 | – | MIT | MIT | 2026-10-20 | – |
+| [Open WebUI](stacks/chat-ui.md#open-webui) | active | 2026-10-25 | v0.12.4 | Open WebUI License (BSD-3 + branding clause) | NOASSERTION | 2026-10-26 | licence review |
+| [Lobe Chat](stacks/chat-ui.md#lobe-chat) | active | 2026-10-26 | v2.2.20 | LobeHub Community License (Apache-2.0 based) | NOASSERTION | 2026-10-26 | licence review |
+| [LibreChat](stacks/chat-ui.md#librechat) | active | 2026-10-24 | – | MIT | MIT | 2026-10-26 | – |
 | [Chatbot UI](stacks/chat-ui.md#chatbot-ui) | active | 2024-06-22 | – | MIT | MIT | 2026-10-20 | – |
 | [GPT4All](stacks/local-models.md#gpt4all) | active | 2025-05-27 | v3.10.0 | MIT | MIT | 2026-10-20 | – |
-| [Ollama](stacks/local-models.md#ollama) | active | 2026-10-20 | v0.40.6 | MIT | MIT | 2026-10-20 | – |
-| [llama.cpp](stacks/local-models.md#llamacpp) | active | 2026-10-20 | v0.7.0 | MIT | MIT | 2026-10-20 | – |
+| [Ollama](stacks/local-models.md#ollama) | active | 2026-10-26 | v0.40.11 | MIT | MIT | 2026-10-26 | – |
+| [llama.cpp](stacks/local-models.md#llamacpp) | active | 2026-10-26 | v0.7.0 | MIT | MIT | 2026-10-26 | – |
 | [llamafile](stacks/local-models.md#llamafile) | active | 2026-10-08 | 0.10.6 | Apache-2.0 | NOASSERTION | 2026-10-20 | licence review |
-| [LocalAI](stacks/local-models.md#localai) | active | 2026-10-20 | v4.11.0 | MIT | MIT | 2026-10-20 | – |
+| [LocalAI](stacks/local-models.md#localai) | active | 2026-10-26 | v4.12.1 | MIT | MIT | 2026-10-26 | – |
 | [Text Generation WebUI](stacks/local-models.md#text-generation-webui) | active | 2026-08-17 | v4.9 | AGPL-3.0 | AGPL-3.0 | 2026-10-20 | – |
-| [vLLM](stacks/inference-serving.md#vllm) | active | 2026-10-20 | v0.32.0 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [SGLang](stacks/inference-serving.md#sglang) | active | 2026-10-20 | v0.5.22 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
+| [vLLM](stacks/inference-serving.md#vllm) | active | 2026-10-26 | v0.32.0 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [SGLang](stacks/inference-serving.md#sglang) | active | 2026-10-26 | v0.5.22 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
 | [Text Generation Inference](stacks/inference-serving.md#text-generation-inference) | ⚠ **archived upstream** | 2026-03-21 | v3.3.7 | Apache-2.0 | Apache-2.0 | 2026-10-20 | archived |
-| [Triton Inference Server](stacks/inference-serving.md#triton-server) | active | 2026-10-15 | v2.73.0 | BSD-3-Clause | BSD-3-Clause | 2026-10-20 | – |
-| [Mem0](stacks/memory.md#mem0) | active | 2026-10-14 | ts-v3.3.1 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
+| [Triton Inference Server](stacks/inference-serving.md#triton-server) | active | 2026-10-26 | v2.73.0 | BSD-3-Clause | BSD-3-Clause | 2026-10-26 | – |
+| [Mem0](stacks/memory.md#mem0) | active | 2026-10-21 | ts-v3.3.1 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
 | [OpenMemory](stacks/memory.md#openmemory) | active | 2026-07-29 | – | MIT | MIT | 2026-10-20 | – |
 | [Letta](stacks/memory.md#letta) | active | 2026-10-18 | 0.16.8 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Graphiti](stacks/memory.md#graphiti) | active | 2026-10-20 | v0.31.2 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [LangChain](stacks/agent-frameworks.md#langchain) | active | 2026-10-20 | langchain-core==1.6.12 | MIT | MIT | 2026-10-20 | – |
-| [LangGraph](stacks/agent-frameworks.md#langgraph) | active | 2026-10-20 | cli==0.4.37 | MIT | MIT | 2026-10-20 | – |
-| [CrewAI](stacks/agent-frameworks.md#crewai) | active | 2026-10-20 | 1.15.28 | MIT | MIT | 2026-10-20 | – |
+| [Graphiti](stacks/memory.md#graphiti) | active | 2026-10-25 | v0.31.2 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [LangChain](stacks/agent-frameworks.md#langchain) | active | 2026-10-25 | langchain-core==1.7.0 | MIT | MIT | 2026-10-26 | – |
+| [LangGraph](stacks/agent-frameworks.md#langgraph) | active | 2026-10-25 | 1.2.17 | MIT | MIT | 2026-10-26 | – |
+| [CrewAI](stacks/agent-frameworks.md#crewai) | active | 2026-10-26 | 1.15.30 | MIT | MIT | 2026-10-26 | – |
 | [AutoGen](stacks/agent-frameworks.md#autogen) | active | 2026-10-16 | python-v0.7.5 | CC-BY-4.0 (docs) / MIT (code) | CC-BY-4.0 | 2026-10-20 | licence review |
-| [smolagents](stacks/agent-frameworks.md#smolagents) | active | 2026-10-06 | v1.26.0 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Agno](stacks/agent-frameworks.md#agno) | active | 2026-10-20 | v3.1.7 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [OpenHuman](stacks/agent-frameworks.md#openhuman) | active | 2026-10-20 | v0.64.15 | GPL-3.0 | GPL-3.0 | 2026-10-20 | – |
-| [OpenHands](stacks/coding-agents.md#openhands) | active | 2026-10-20 | v1.28.1 | MIT | MIT | 2026-10-20 | – |
-| [Continue](stacks/coding-agents.md#continue) | active | 2026-07-21 | v2.0.0-vscode | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
+| [smolagents](stacks/agent-frameworks.md#smolagents) | active | 2026-10-06 | v1.26.0 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Agno](stacks/agent-frameworks.md#agno) | active | 2026-10-26 | v3.1.10 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [OpenHuman](stacks/agent-frameworks.md#openhuman) | active | 2026-10-26 | v0.64.15 | GPL-3.0 | GPL-3.0 | 2026-10-26 | – |
+| [OpenHands](stacks/coding-agents.md#openhands) | active | 2026-10-26 | v1.33.0 | MIT | MIT | 2026-10-26 | – |
+| [Continue](stacks/coding-agents.md#continue) | active | 2026-07-21 | v2.0.0-vscode | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
 | [Aider](stacks/coding-agents.md#aider) | active | 2026-05-22 | v0.86.0 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [OpenCode](stacks/coding-agents.md#opencode) | active | 2026-10-20 | v1.19.3 | MIT | MIT | 2026-10-20 | – |
-| [Cline](stacks/coding-agents.md#cline) | active | 2026-10-20 | desktop-v0.0.48 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Open Code Review](stacks/code-review.md#open-code-review) | active | 2026-10-20 | v1.13.2 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [PR-Agent](stacks/code-review.md#pr-agent) | active | 2026-10-20 | v0.48.0 | MIT | MIT | 2026-10-20 | – |
-| [Dify](stacks/app-builders.md#dify) | active | 2026-10-20 | 1.17.1 | Dify Open Source License (Apache-2.0 + conditions) | NOASSERTION | 2026-10-20 | licence review |
+| [OpenCode](stacks/coding-agents.md#opencode) | active | 2026-10-26 | v1.19.4 | MIT | MIT | 2026-10-26 | – |
+| [Cline](stacks/coding-agents.md#cline) | active | 2026-10-26 | desktop-v0.0.49 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Open Code Review](stacks/code-review.md#open-code-review) | active | 2026-10-20 | v1.13.3 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [PR-Agent](stacks/code-review.md#pr-agent) | active | 2026-10-26 | v0.49.0 | MIT | MIT | 2026-10-26 | – |
+| [Dify](stacks/app-builders.md#dify) | active | 2026-10-26 | 1.18.0 | Dify Open Source License (Apache-2.0 + conditions) | NOASSERTION | 2026-10-26 | licence review |
 | [Flowise](stacks/app-builders.md#flowise) | ⚠ **archived upstream** | 2026-08-13 | flowise@3.1.4 | Apache-2.0 (enterprise dir separate) | NOASSERTION | 2026-10-20 | archived, licence review |
-| [Langflow](stacks/app-builders.md#langflow) | active | 2026-10-16 | v1.12.6 | MIT | MIT | 2026-10-20 | – |
-| [n8n](stacks/app-builders.md#n8n) | active | 2026-10-20 | n8n@2.44.4 | Sustainable Use License (fair-code) | NOASSERTION | 2026-10-20 | licence review |
-| [LlamaIndex](stacks/rag-vector-db.md#llama-index) | active | 2026-10-14 | v0.14.25 | MIT | MIT | 2026-10-20 | – |
-| [Haystack](stacks/rag-vector-db.md#haystack) | active | 2026-10-20 | v3.4.0 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [RAGFlow](stacks/rag-vector-db.md#ragflow) | active | 2026-10-20 | v1.0.0-rc2 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Qdrant](stacks/rag-vector-db.md#qdrant) | active | 2026-10-05 | v1.19.2 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Chroma](stacks/rag-vector-db.md#chroma) | active | 2026-10-17 | 1.5.9 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Milvus](stacks/rag-vector-db.md#milvus) | active | 2026-10-20 | v3.0.3 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Weaviate](stacks/rag-vector-db.md#weaviate) | active | 2026-10-16 | v1.40.1 | BSD-3-Clause (core) | NOASSERTION | 2026-10-20 | licence review |
-| [Langfuse](stacks/eval-observability.md#langfuse) | active | 2026-10-20 | v4.66.0 | MIT (ee/ dirs separate) | NOASSERTION | 2026-10-20 | licence review |
-| [Phoenix](stacks/eval-observability.md#phoenix) | active | 2026-10-20 | arize-phoenix-sqlean-v0.2.1 | Elastic-2.0 | NOASSERTION | 2026-10-20 | licence review |
-| [promptfoo](stacks/eval-observability.md#promptfoo) | active | 2026-10-20 | code-scan-action-0.2.2 | MIT | MIT | 2026-10-20 | – |
-| [DeepEval](stacks/eval-observability.md#deepeval) | active | 2026-10-19 | python-v4.2.4 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Butterbase](stacks/backend-infra.md#butterbase) | active | 2026-10-20 | – | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [Supabase](stacks/backend-infra.md#supabase) | active | 2026-10-20 | v1.26.08 | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [PocketBase](stacks/backend-infra.md#pocketbase) | active | 2026-10-08 | v0.40.5 | MIT | MIT | 2026-10-20 | – |
-| [Awesome LLM Apps](stacks/app-templates.md#awesome-llm-apps) | active | 2026-10-18 | – | Apache-2.0 | Apache-2.0 | 2026-10-20 | – |
-| [One Person Company](stacks/codesbyfebin-collection.md#one-person-company) | active | 2026-10-06 | – | MIT | MIT | 2026-10-20 | – |
-| [Kinetic](stacks/codesbyfebin-collection.md#kinetic) | active | 2026-10-15 | – | MIT | MIT | 2026-10-20 | – |
-| [CircleChat](stacks/codesbyfebin-collection.md#circlechat) | active | 2026-09-30 | – | MIT | MIT | 2026-10-20 | – |
+| [Langflow](stacks/app-builders.md#langflow) | active | 2026-10-22 | v1.13.0 | MIT | MIT | 2026-10-26 | – |
+| [n8n](stacks/app-builders.md#n8n) | active | 2026-10-26 | n8n@2.44.7 | Sustainable Use License (fair-code) | NOASSERTION | 2026-10-26 | licence review |
+| [LlamaIndex](stacks/rag-vector-db.md#llama-index) | active | 2026-10-14 | v0.14.25 | MIT | MIT | 2026-10-26 | – |
+| [Haystack](stacks/rag-vector-db.md#haystack) | active | 2026-10-24 | v3.4.1 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [RAGFlow](stacks/rag-vector-db.md#ragflow) | active | 2026-10-26 | v1.0.0-rc2 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Qdrant](stacks/rag-vector-db.md#qdrant) | active | 2026-10-21 | v1.20.0 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Chroma](stacks/rag-vector-db.md#chroma) | active | 2026-10-22 | 1.5.9 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Milvus](stacks/rag-vector-db.md#milvus) | active | 2026-10-26 | v3.0.4 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Weaviate](stacks/rag-vector-db.md#weaviate) | active | 2026-10-16 | v1.40.2 | BSD-3-Clause (core) | NOASSERTION | 2026-10-26 | licence review |
+| [Langfuse](stacks/eval-observability.md#langfuse) | active | 2026-10-25 | v4.70.0 | MIT (ee/ dirs separate) | NOASSERTION | 2026-10-26 | licence review |
+| [Phoenix](stacks/eval-observability.md#phoenix) | active | 2026-10-25 | arize-phoenix-v20.26.1 | Elastic-2.0 | NOASSERTION | 2026-10-26 | licence review |
+| [promptfoo](stacks/eval-observability.md#promptfoo) | active | 2026-10-25 | 0.125.1 | MIT | MIT | 2026-10-26 | – |
+| [DeepEval](stacks/eval-observability.md#deepeval) | active | 2026-10-23 | python-v4.2.4 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Butterbase](stacks/backend-infra.md#butterbase) | active | 2026-10-26 | – | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [Supabase](stacks/backend-infra.md#supabase) | active | 2026-10-26 | v1.26.08 | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [PocketBase](stacks/backend-infra.md#pocketbase) | active | 2026-10-23 | v0.40.6 | MIT | MIT | 2026-10-26 | – |
+| [Awesome LLM Apps](stacks/app-templates.md#awesome-llm-apps) | active | 2026-10-21 | – | Apache-2.0 | Apache-2.0 | 2026-10-26 | – |
+| [One Person Company](stacks/codesbyfebin-collection.md#one-person-company) | active | 2026-10-06 | – | MIT | MIT | 2026-10-26 | – |
+| [Kinetic](stacks/codesbyfebin-collection.md#kinetic) | active | 2026-10-25 | – | MIT | MIT | 2026-10-26 | – |
+| [CircleChat](stacks/codesbyfebin-collection.md#circlechat) | active | 2026-10-23 | – | MIT | MIT | 2026-10-26 | – |
 | [AgentDomains](stacks/codesbyfebin-collection.md#agentdomains) | active | 2026-10-17 | v0.1.8 | FSL-1.1-Apache-2.0 | NOASSERTION | 2026-10-20 | licence review |
 | [AgentDomains MCP](stacks/codesbyfebin-collection.md#agentdomains-mcp) | active | 2026-09-30 | – | FSL-1.1-Apache-2.0 | NOASSERTION | 2026-10-20 | licence review |
 | [AgentDomains Skill](stacks/codesbyfebin-collection.md#agentdomains-skill) | active | 2026-10-17 | – | FSL-1.1-Apache-2.0 | NOASSERTION | 2026-10-20 | licence review |

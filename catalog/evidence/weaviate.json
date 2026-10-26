@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/weaviate/weaviate",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-10-26T08:41:20Z",
     "result": "ok"
   },
   "id": "weaviate",
   "last_commit": "2026-10-16T08:22:16Z",
   "latest_release": {
-    "published_at": "2026-10-13T06:35:30Z",
-    "tag": "v1.40.1"
+    "published_at": "2026-10-22T08:54:36Z",
+    "tag": "v1.40.2"
   },
   "license": {
     "github_spdx": "NOASSERTION",
@@ -17,9 +17,9 @@
     "state": "needs-review"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T14:33:33Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-26T08:14:22Z",
+  "retrieved_at": "2026-10-26T08:41:20Z",
   "source": "https://api.github.com/repos/weaviate/weaviate",
-  "stars": 16893,
+  "stars": 16915,
   "state": "active"
 }
