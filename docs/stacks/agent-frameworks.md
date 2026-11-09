@@ -45,12 +45,12 @@ Composable LLM application framework
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | langchain-core==1.6.12 (2026-10-16) |
+| Last commit | 2026-11-09 |
+| Latest release | langchain-core==1.7.6 (2026-11-05) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### LangGraph {#langgraph}
 
@@ -65,12 +65,12 @@ Graph-based stateful agent orchestration
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | cli==0.4.37 (2026-10-19) |
+| Last commit | 2026-11-06 |
+| Latest release | sdk==0.4.14 (2026-11-06) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### CrewAI {#crewai}
 
@@ -85,12 +85,12 @@ Role-based multi-agent crews
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | 1.15.28 (2026-10-14) |
+| Last commit | 2026-11-09 |
+| Latest release | 1.15.39 (2026-11-09) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### AutoGen {#autogen}
 
@@ -105,12 +105,12 @@ Conversational multi-agent framework
 | Repository state | active |
 | Licence review reason | Multiple licences: LICENSE is CC-BY-4.0 (docs) and LICENSE-CODE is MIT (code); GitHub reports only CC-BY-4.0. |
 | Last lookup | ok |
-| Last commit | 2026-10-16 |
+| Last commit | 2026-10-28 |
 | Latest release | python-v0.7.5 (2025-09-30) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### smolagents {#smolagents}
 
@@ -130,7 +130,7 @@ Minimal code-writing agents
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Agno {#agno}
 
@@ -145,12 +145,12 @@ Fast agent framework with memory and tools
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v3.1.7 (2026-10-20) |
+| Last commit | 2026-11-09 |
+| Latest release | v3.1.12 (2026-10-29) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### OpenHuman {#openhuman}
 
@@ -165,9 +165,9 @@ Lightweight agent harness that runs hundreds of agents on a small VPS
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-11-08 |
 | Latest release | v0.64.15 (2026-10-09) |
 | Deployment | library |
 | Hardware | not-applicable |
 | Languages | Rust |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |

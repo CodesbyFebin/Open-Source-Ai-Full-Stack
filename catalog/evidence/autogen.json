@@ -2,11 +2,11 @@
   "canonical_repo": "https://github.com/microsoft/autogen",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-11-09T11:08:58Z",
     "result": "ok"
   },
   "id": "autogen",
-  "last_commit": "2026-10-16T16:14:36Z",
+  "last_commit": "2026-10-28T14:45:27Z",
   "latest_release": {
     "published_at": "2025-09-30T06:18:26Z",
     "tag": "python-v0.7.5"
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-16T16:14:37Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-10-28T14:45:27Z",
+  "retrieved_at": "2026-11-09T11:08:58Z",
   "source": "https://api.github.com/repos/microsoft/autogen",
-  "stars": 61497,
+  "stars": 61758,
   "state": "active"
 }

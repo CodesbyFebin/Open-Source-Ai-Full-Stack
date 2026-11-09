@@ -42,12 +42,12 @@ Autonomous software-engineering agent
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v1.28.1 (2026-10-19) |
+| Last commit | 2026-11-09 |
+| Latest release | v1.37.0 (2026-11-06) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Continue {#continue}
 
@@ -67,7 +67,7 @@ IDE assistant for VS Code and JetBrains
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Aider {#aider}
 
@@ -102,12 +102,12 @@ Terminal coding agent
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v1.19.3 (2026-10-16) |
+| Last commit | 2026-11-09 |
+| Latest release | v1.19.5 (2026-10-28) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Cline {#cline}
 
@@ -122,9 +122,9 @@ Autonomous coding agent in VS Code
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | desktop-v0.0.48 (2026-10-17) |
+| Last commit | 2026-11-09 |
+| Latest release | v4.1.26 (2026-10-26) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |

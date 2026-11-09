@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/langgenius/dify",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-11-09T11:08:58Z",
     "result": "ok"
   },
   "id": "dify",
-  "last_commit": "2026-10-20T14:44:34Z",
+  "last_commit": "2026-11-09T10:08:20Z",
   "latest_release": {
-    "published_at": "2026-09-10T10:04:06Z",
-    "tag": "1.17.1"
+    "published_at": "2026-11-04T07:36:16Z",
+    "tag": "1.19.0"
   },
   "license": {
     "github_spdx": "NOASSERTION",
@@ -17,9 +17,9 @@
     "state": "needs-review"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T16:10:29Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-11-09T10:54:36Z",
+  "retrieved_at": "2026-11-09T11:08:58Z",
   "source": "https://api.github.com/repos/langgenius/dify",
-  "stars": 159048,
+  "stars": 160742,
   "state": "active"
 }
