@@ -64,12 +64,12 @@ One-command local model runner with OpenAI-compatible API
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v0.40.6 (2026-10-16) |
+| Last commit | 2026-11-08 |
+| Latest release | v0.40.15 (2026-11-03) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### llama.cpp {#llamacpp}
 
@@ -84,12 +84,12 @@ Portable C/C++ inference for GGUF models
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v0.7.0 (2026-10-15) |
+| Last commit | 2026-11-09 |
+| Latest release | v0.9.0 (2026-11-04) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | C++ |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### llamafile {#llamafile}
 
@@ -104,12 +104,12 @@ Single-file executable LLMs
 | Repository state | active |
 | Licence review reason | LICENSE text is Apache-2.0 but GitHub's detector returns NOASSERTION; vendored third-party components not reviewed. |
 | Last lookup | ok |
-| Last commit | 2026-10-08 |
+| Last commit | 2026-11-05 |
 | Latest release | 0.10.6 (2026-09-15) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | C++ |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### LocalAI {#localai}
 
@@ -124,12 +124,12 @@ Drop-in OpenAI API replacement for local models
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v4.11.0 (2026-10-02) |
+| Last commit | 2026-11-09 |
+| Latest release | v4.12.1 (2026-10-23) |
 | Deployment | local |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Text Generation WebUI {#text-generation-webui}
 

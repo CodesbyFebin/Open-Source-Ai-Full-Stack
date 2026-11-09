@@ -2,7 +2,7 @@
   "canonical_repo": "https://github.com/continuedev/continue",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-11-09T11:08:58Z",
     "result": "ok"
   },
   "id": "continue",
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T14:30:21Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-11-05T15:28:28Z",
+  "retrieved_at": "2026-11-09T11:08:58Z",
   "source": "https://api.github.com/repos/continuedev/continue",
-  "stars": 36273,
+  "stars": 36439,
   "state": "active"
 }

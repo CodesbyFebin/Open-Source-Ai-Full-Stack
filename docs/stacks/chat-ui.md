@@ -41,12 +41,12 @@ Feature-rich web UI for Ollama and OpenAI-compatible APIs
 | Repository state | active |
 | Licence review reason | Custom licence: BSD-3-style terms plus a clause forbidding removal or alteration of Open WebUI branding (upstream LICENSE). |
 | Last lookup | ok |
-| Last commit | 2026-10-16 |
-| Latest release | v0.12.3 (2026-10-16) |
+| Last commit | 2026-11-08 |
+| Latest release | v0.13.3 (2026-11-08) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | Python, Svelte |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Lobe Chat {#lobe-chat}
 
@@ -61,12 +61,12 @@ Modern multi-provider chat and agent workspace
 | Repository state | active |
 | Licence review reason | Custom licence: LobeHub Community License, Apache-2.0 based with additional commercial-use conditions (upstream LICENSE). |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v2.2.20 (2026-10-18) |
+| Last commit | 2026-11-09 |
+| Latest release | v2.3.2 (2026-11-06) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### LibreChat {#librechat}
 
@@ -81,12 +81,12 @@ Multi-provider chat with agents, auth and plugins
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-17 |
+| Last commit | 2026-10-31 |
 | Latest release | none detected  |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Chatbot UI {#chatbot-ui}
 

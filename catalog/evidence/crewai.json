@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/crewAIInc/crewAI",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-11-09T11:08:58Z",
     "result": "ok"
   },
   "id": "crewai",
-  "last_commit": "2026-10-20T18:27:26Z",
+  "last_commit": "2026-11-09T06:33:41Z",
   "latest_release": {
-    "published_at": "2026-10-14T04:47:00Z",
-    "tag": "1.15.28"
+    "published_at": "2026-11-09T01:07:14Z",
+    "tag": "1.15.39"
   },
   "license": {
     "github_spdx": "MIT",
@@ -17,9 +17,9 @@
     "state": "detected"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T18:27:29Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-11-09T10:14:16Z",
+  "retrieved_at": "2026-11-09T11:08:58Z",
   "source": "https://api.github.com/repos/crewAIInc/crewAI",
-  "stars": 59922,
+  "stars": 60682,
   "state": "active"
 }

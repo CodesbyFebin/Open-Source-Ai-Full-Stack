@@ -16,7 +16,7 @@ Backends, databases and auth for AI products.
 |---|---|---|---|---|---|---|
 | [Butterbase](#butterbase) | Open-source backend-as-a-service: Postgres, auth, storage, functions, AI gateway, MCP | BaaS + AI gateway | self-hosted | cpu-ok | Apache-2.0 | active |
 | [Supabase](#supabase) | Postgres platform with auth, storage, pgvector | BaaS | self-hosted | cpu-ok | Apache-2.0 | active |
-| [PocketBase](#pocketbase) | Single-file backend with realtime DB | Embedded BaaS | self-hosted | cpu-ok | MIT | active |
+| [PocketBase](#pocketbase) | Single-file backend with realtime DB | Embedded BaaS | self-hosted | cpu-ok | MIT | ⚠ **archived upstream** |
 
 ## Quick start
 
@@ -41,12 +41,12 @@ Open-source backend-as-a-service: Postgres, auth, storage, functions, AI gateway
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-11-08 |
 | Latest release | none detected  |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Supabase {#supabase}
 
@@ -61,12 +61,12 @@ Postgres platform with auth, storage, pgvector
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
+| Last commit | 2026-11-09 |
 | Latest release | v1.26.08 (2026-08-07) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### PocketBase {#pocketbase}
 
@@ -78,12 +78,12 @@ Single-file backend with realtime DB
 | Setup docs | [PocketBase setup guide](https://github.com/pocketbase/pocketbase#readme) |
 | Licence | MIT · [licence evidence](https://github.com/pocketbase/pocketbase/blob/master/LICENSE.md) · checked 2026-10-20 |
 | Licence detected by GitHub | MIT |
-| Repository state | active |
+| Repository state | ⚠ **archived upstream** |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-08 |
-| Latest release | v0.40.5 (2026-10-08) |
+| Last commit | 2026-10-26 |
+| Latest release | v0.40.6 (2026-10-23) |
 | Deployment | self-hosted |
 | Hardware | cpu-ok |
 | Languages | Go |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |

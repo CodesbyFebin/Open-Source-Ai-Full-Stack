@@ -42,12 +42,12 @@ PagedAttention-based high-throughput server
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v0.32.0 (2026-10-18) |
+| Last commit | 2026-11-09 |
+| Latest release | v0.33.0rc3 (2026-11-02) |
 | Deployment | self-hosted |
 | Hardware | gpu-required |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### SGLang {#sglang}
 
@@ -62,12 +62,12 @@ Fast serving with structured generation
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-20 |
-| Latest release | v0.5.22 (2026-10-19) |
+| Last commit | 2026-11-09 |
+| Latest release | v0.5.23 (2026-11-02) |
 | Deployment | self-hosted |
 | Hardware | gpu-required |
 | Languages | Python |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Text Generation Inference {#text-generation-inference}
 
@@ -102,9 +102,9 @@ Multi-framework model server
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-15 |
-| Latest release | v2.73.0 (2026-09-30) |
+| Last commit | 2026-11-05 |
+| Latest release | v2.74.0 (2026-11-02) |
 | Deployment | self-hosted |
 | Hardware | gpu-required |
 | Languages | C++ |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |

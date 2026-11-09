@@ -52,7 +52,7 @@ Operations dashboard for solo founders
 | Deployment | unknown |
 | Hardware | unknown |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### Kinetic {#kinetic}
 
@@ -67,12 +67,12 @@ GTM enrichment tables plus cold-email outreach
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-10-15 |
+| Last commit | 2026-10-27 |
 | Latest release | none detected  |
 | Deployment | unknown |
 | Hardware | unknown |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### CircleChat {#circlechat}
 
@@ -87,12 +87,12 @@ Team chat where humans and agents are members
 | Repository state | active |
 | Licence review reason | – |
 | Last lookup | ok |
-| Last commit | 2026-09-30 |
+| Last commit | 2026-10-30 |
 | Latest release | none detected  |
 | Deployment | unknown |
 | Hardware | unknown |
 | Languages | TypeScript |
-| Evidence collected | 2026-10-20 |
+| Evidence collected | 2026-11-09 |
 
 ### AgentDomains {#agentdomains}
 

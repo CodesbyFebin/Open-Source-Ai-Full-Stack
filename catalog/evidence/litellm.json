@@ -2,14 +2,14 @@
   "canonical_repo": "https://github.com/BerriAI/litellm",
   "default_branch": "main",
   "fetch_status": {
-    "at": "2026-10-20T19:54:06Z",
+    "at": "2026-11-09T11:08:58Z",
     "result": "ok"
   },
   "id": "litellm",
-  "last_commit": "2026-10-20T19:49:58Z",
+  "last_commit": "2026-11-09T01:59:55Z",
   "latest_release": {
-    "published_at": "2026-10-20T18:58:28Z",
-    "tag": "v1.106.1"
+    "published_at": "2026-11-07T22:29:58Z",
+    "tag": "v1.108.3"
   },
   "license": {
     "github_spdx": "NOASSERTION",
@@ -17,9 +17,9 @@
     "state": "needs-review"
   },
   "moved": false,
-  "pushed_at": "2026-10-20T19:50:12Z",
-  "retrieved_at": "2026-10-20T19:54:06Z",
+  "pushed_at": "2026-11-09T11:02:16Z",
+  "retrieved_at": "2026-11-09T11:08:58Z",
   "source": "https://api.github.com/repos/BerriAI/litellm",
-  "stars": 61667,
+  "stars": 62957,
   "state": "active"
 }
